@@ -1,7 +1,7 @@
 
 # BMI Calculator App
 
-![App Screenshot](link_to_your_screenshot) <!-- Replace this with the actual link or image tag -->
+![App Screenshot](https://github.com/tanjin-mim/BMI-Calculator/blob/master/app/src/main/res/drawable/screen.png?raw=true) <!-- Replace this with the actual link or image tag -->
 
 ## Overview
 
